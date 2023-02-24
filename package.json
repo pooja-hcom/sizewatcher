@@ -1,5 +1,5 @@
 {
-  "name": "@adobe/sizewatcher",
+  "name": "pooja-hcom/sizewatcher",
   "version": "1.3.0",
   "description": "Warns if your pull requests introduce large size increases.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "author": "Adobe",
   "license": "Apache-2.0",
-  "repository": "adobe/sizewatcher",
+  "repository": "pooja-hcom/sizewatcher",
   "keywords": [
     "size",
     "check",
