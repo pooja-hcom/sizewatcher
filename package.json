@@ -1,6 +1,6 @@
 {
   "name": "pooja-hcom/sizewatcher",
-  "version": "1.3.0",
+  "version": "https://github.com/pooja-hcom/sizewatcher.git",
   "description": "Warns if your pull requests introduce large size increases.",
   "main": "index.js",
   "bin": {
